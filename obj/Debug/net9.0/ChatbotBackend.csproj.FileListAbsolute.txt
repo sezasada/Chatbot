@@ -33,3 +33,4 @@
 /Users/sebastienzasada/Desktop/projects/ChatbotBackend/obj/Debug/net9.0/ChatbotBackend.genruntimeconfig.cache
 /Users/sebastienzasada/Desktop/projects/ChatbotBackend/obj/Debug/net9.0/ref/ChatbotBackend.dll
 /Users/sebastienzasada/Desktop/projects/ChatbotBackend/bin/Debug/net9.0/dotenv.net.dll
+/Users/sebastienzasada/Desktop/projects/ChatbotBackend/obj/Debug/net9.0/ChatbotBackend.sourcelink.json

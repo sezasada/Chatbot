@@ -8,7 +8,21 @@ builder.Services.AddScoped<ChatGptService>(); // Register ChatGptService
 builder.Services.AddLogging();
 builder.Services.AddOpenApi();
 
+// Add CORS configuration
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
+
+
 var app = builder.Build();
+
+app.UseCors();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
