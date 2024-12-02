@@ -1,0 +1,11 @@
+/Users/sebastienzasada/Desktop/projects/ChatbotBackend/bin/Release/net9.0/publish/ChatbotBackend
+/Users/sebastienzasada/Desktop/projects/ChatbotBackend/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/sebastienzasada/Desktop/projects/ChatbotBackend/bin/Release/net9.0/publish/appsettings.json
+/Users/sebastienzasada/Desktop/projects/ChatbotBackend/bin/Release/net9.0/publish/ChatbotBackend.dll
+/Users/sebastienzasada/Desktop/projects/ChatbotBackend/bin/Release/net9.0/publish/ChatbotBackend.deps.json
+/Users/sebastienzasada/Desktop/projects/ChatbotBackend/bin/Release/net9.0/publish/ChatbotBackend.runtimeconfig.json
+/Users/sebastienzasada/Desktop/projects/ChatbotBackend/bin/Release/net9.0/publish/ChatbotBackend.pdb
+/Users/sebastienzasada/Desktop/projects/ChatbotBackend/bin/Release/net9.0/publish/dotenv.net.dll
+/Users/sebastienzasada/Desktop/projects/ChatbotBackend/bin/Release/net9.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/sebastienzasada/Desktop/projects/ChatbotBackend/bin/Release/net9.0/publish/Microsoft.OpenApi.dll
+/Users/sebastienzasada/Desktop/projects/ChatbotBackend/bin/Release/net9.0/publish/Newtonsoft.Json.dll
